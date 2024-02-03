@@ -1,5 +1,5 @@
-# ADS Project 1: What made you happy today?
+# Yonghao Xu (yx2838) Project 1: What is the relationship between the entertainment and happy moment?
 ### Code lib Folder
 
-The lib directory contains various files with function definitions (but only function definitions - no code that actually runs).
+My project file is "5243-project-1-Yonghao.ipynb" and I also upload all the attached file in my code.
 
